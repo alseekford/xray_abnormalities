@@ -8,6 +8,7 @@ DS 6050: Deep Learning
 Developed a two-part classification model utilizing deep learning models to accurately detect and categorize 1) body parts and 2) abnormality status (such as fractures, presence of rods, or screws) in x-ray images of upper extremities.
 
 
-Code: `finalproject.ipynb` 
-Project Report: `Xray_Report.pdf`
-Presentation Slides: `XRay_Presentation.pdf`
+`\n`
+Code: `finalproject.ipynb`   
+Project Report: `Xray_Report.pdf`  
+Presentation Slides: `XRay_Presentation.pdf`  
