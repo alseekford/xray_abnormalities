@@ -2,4 +2,5 @@
 
 Gargee Jagtap (wra2jv@virginia.edu), Ali Rivera (wat6sv@virginia.edu), Anne Louise Seekford (bng3be@virginia.edu)
 
+DS 6050: Deep Learning
 
