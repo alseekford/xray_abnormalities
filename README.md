@@ -2,7 +2,8 @@
 
 Gargee Jagtap (wra2jv@virginia.edu), Ali Rivera (wat6sv@virginia.edu), Anne Louise Seekford (bng3be@virginia.edu)
 
-DS 6050: Deep Learning
+DS 6050: Deep Learning  
+Spring 2023  
 
 
 Developed a two-part classification model utilizing deep learning models to accurately detect and categorize 1) body parts and 2) abnormality status (such as fractures, presence of rods, or screws) in x-ray images of upper extremities.
